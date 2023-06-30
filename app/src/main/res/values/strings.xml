@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">WeatherAppAssignment</string>
+    <string name="humidity">Humidity %s</string>
+    <string name="wind">Wind %skm/hr</string>
+    <string name="temp">%s&#176;</string>
+    <string name="no_internet">No Internet!</string>
+    <string name="internet_not_available">No internet available, please check your WiFi or Data connection!</string>
+    <string name="fail">Fail!</string>
+    <string name="something_wrong">Something went wrong please try again</string>
+    <string name="search_city">Search City</string>
+    <string name="enter_city_name">Please enter city name!</string>
+</resources>
